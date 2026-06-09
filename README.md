@@ -26,7 +26,7 @@ Free public proof: **[RedactUS](https://github.com/docbones43/RedactUs)**, open-
 
 ## A note on what this is
 
-I am Ben P Bacon. AI Doctor Ben is the first paid product from Whater.org. The product is live, the paying members are real, and the rest of the brand house (Whater, LocalLayer, RedactUS) is being built in public around it. If the docs you came here for are not here yet, they will be. The live product is at the link above.
+AI Doctor Ben is the first paid product from Whater.org. The product is live, the paying members are real, and the rest of the brand house, Whater.org, LocalLayer, and RedactUS, is being built in public around it. If the docs you came here for are not here yet, they will be. The live product is at the link above.
 
 ---
 
