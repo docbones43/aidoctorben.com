@@ -18,7 +18,7 @@ A public docs site for members, journalists, and sponsors. Plain English. How AI
 
 Built by **Whater.org**, a foundation in formation. **[Whater.org](https://whater.org/)**
 Powered by **LocalLayer**, a reflective control layer for AI systems. **[Locallayer.net](https://locallayer.net/)**
-Free public proof: **[RedactUS](https://github.com/docbones43/RedactUs)**, open-source redaction that runs entirely in your browser.
+Free public proof: **[RedactUS](https://github.com/docbones43/RedactUs)**, open-source Personal Identifiable Information protected at source/ redaction that runs entirely in your browser.
 
 > **Built by Whater.org. Powered by LocalLayer. First products: RedactUS and AI Doctor Ben.**
 
